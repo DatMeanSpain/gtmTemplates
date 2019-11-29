@@ -1,0 +1,3 @@
+[submodule "aroaScript_GTMTemplate"]
+	path = aroaScript_GTMTemplate
+	url = git@github.com:DatMeanSpain/aroaScript_GTMTemplate.git
